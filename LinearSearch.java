@@ -3,7 +3,7 @@ public class LinearSearch {
        int[] nums = {1,24,54,2,34,-91,0};
        int key = 24;
        int ans = linearsearch(nums, key);
-       System.out.println(ans);
+       System.out.println(ans);//
 
     }
 
@@ -26,3 +26,4 @@ public class LinearSearch {
 
     }
 }
+
